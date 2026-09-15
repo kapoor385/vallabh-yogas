@@ -17,7 +17,7 @@
       <ul class="nav-links" id="navLinks">
         <li><a href="#home">Home</a></li>
         <li><a href="#offerings">Classes</a></li>
-        <li><a href="#stats">Results</a></li>
+        <li><a href="#stats">Result</a></li>
         <li><a href="#nutrition">Nutrition</a></li>
         <li><a href="#testimonials">Reviews</a></li>
         <li><a href="#app">App</a></li>
